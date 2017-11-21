@@ -1,2 +1,2 @@
 # xss
-Cross-site-scripting as a feature
+Cross-Site-Scripting as a feature
